@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @moob10293
-- 👀 I’m interested in python, c, and java projects
-- 🌱 I’m currently learning c
-- 💞️ I’m looking to collaborate on something easy
+- 👀 I’m interested
+- 🌱 I’m currently learning
+- 💞️ I’m looking to collaborate
 - 📫 Reach me at moob10293@gmail.com
 
 <!---
